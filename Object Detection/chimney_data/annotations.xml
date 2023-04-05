@@ -5,7 +5,7 @@
     <task>
       <id>126383</id>
       <name>Chimney test</name>
-      <size>10</size>
+      <size>9</size>
       <mode>annotation</mode>
       <overlap>0</overlap>
       <bugtracker></bugtracker>
@@ -13,13 +13,13 @@
       <updated>2023-04-05 20:48:28.589960+00:00</updated>
       <subset>default</subset>
       <start_frame>0</start_frame>
-      <stop_frame>9</stop_frame>
+      <stop_frame>8</stop_frame>
       <frame_filter></frame_filter>
       <segments>
         <segment>
           <id>129769</id>
           <start>0</start>
-          <stop>9</stop>
+          <stop>8</stop>
           <url>https://app.cvat.ai/api/jobs/129769</url>
         </segment>
       </segments>
@@ -85,7 +85,5 @@
     </box>
     <box label="chimney" source="manual" occluded="0" xtl="245.03" ytl="241.37" xbr="254.38" ybr="250.72" z_order="0">
     </box>
-  </image>
-  <image id="9" name="slrm_home_sites_buffered_1016.png" width="500" height="500">
   </image>
 </annotations>
