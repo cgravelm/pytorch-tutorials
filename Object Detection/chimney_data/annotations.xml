@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>126383</id>
+      <name>Chimney test</name>
+      <size>10</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-04-05 19:17:17.937536+00:00</created>
+      <updated>2023-04-05 20:48:28.589960+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>9</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>129769</id>
+          <start>0</start>
+          <stop>9</stop>
+          <url>https://app.cvat.ai/api/jobs/129769</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>cgravelm</username>
+        <email>claudine.gravelmiguel@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>chimney</name>
+          <color>#2f620e</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-04-05 21:02:25.479674+00:00</dumped>
+  </meta>
+  <image id="0" name="slrm_home_sites_buffered_1004.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="81.53" ytl="41.29" xbr="89.33" ybr="48.39" z_order="0">
+    </box>
+    <box label="chimney" source="manual" occluded="0" xtl="234.26" ytl="269.98" xbr="245.06" ybr="280.56" z_order="0">
+    </box>
+    <box label="chimney" source="manual" occluded="0" xtl="218.42" ytl="278.28" xbr="227.90" ybr="287.98" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="slrm_home_sites_buffered_1005.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="245.14" ytl="250.43" xbr="254.27" ybr="259.56" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="slrm_home_sites_buffered_1006.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="245.79" ytl="234.77" xbr="251.09" ybr="240.37" z_order="0">
+    </box>
+    <box label="chimney" source="manual" occluded="0" xtl="252.09" ytl="253.07" xbr="257.79" ybr="258.57" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="slrm_home_sites_buffered_1007.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="233.48" ytl="277.97" xbr="238.28" ybr="282.57" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="slrm_home_sites_buffered_1009.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="253.60" ytl="261.56" xbr="260.65" ybr="268.19" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="slrm_home_sites_buffered_1010.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="270.97" ytl="274.81" xbr="282.20" ybr="284.86" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="slrm_home_sites_buffered_1011.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="239.64" ytl="250.58" xbr="248.51" ybr="259.44" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="slrm_home_sites_buffered_1012.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="249.92" ytl="248.68" xbr="254.72" ybr="253.68" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="slrm_home_sites_buffered_1013.png" width="500" height="500">
+    <box label="chimney" source="manual" occluded="0" xtl="399.25" ytl="470.36" xbr="409.37" ybr="480.48" z_order="0">
+    </box>
+    <box label="chimney" source="manual" occluded="0" xtl="382.11" ytl="479.71" xbr="393.02" ybr="489.83" z_order="0">
+    </box>
+    <box label="chimney" source="manual" occluded="0" xtl="245.03" ytl="241.37" xbr="254.38" ybr="250.72" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="slrm_home_sites_buffered_1016.png" width="500" height="500">
+  </image>
+</annotations>
