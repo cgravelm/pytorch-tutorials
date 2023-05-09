@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>157776</id>
+      <size>20</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-05-08 21:31:24.288800+00:00</created>
+      <updated>2023-05-08 23:05:14.881608+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>19</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>157776</id>
+          <start>0</start>
+          <stop>19</stop>
+          <url>https://app.cvat.ai/api/jobs/157776</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>cgravelm</username>
+        <email>claudine.gravelmiguel@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>terrace</name>
+          <color>#ff6037</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-05-08 23:05:36.660674+00:00</dumped>
+  </meta>
+  <image id="0" name="tile_237500_3671000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="86.06" ytl="150.80" xbr="340.19" ybr="322.29" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="155.62" ytl="21.32" xbr="495.15" ybr="197.63" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="tile_237500_3671500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="16.50" ytl="4.10" xbr="235.51" ybr="422.84" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="338.13" ytl="20.63" xbr="482.07" ybr="279.59" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="182.48" ytl="421.46" xbr="365.67" ybr="499.28" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="tile_238000_3671000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="203.83" ytl="52.31" xbr="420.77" ybr="291.98" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="8.93" ytl="345.01" xbr="197.63" ybr="493.77" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="tile_238000_3671500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="172.84" ytl="0.66" xbr="352.59" ybr="132.20" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="99.15" ytl="294.74" xbr="277.52" ybr="475.87" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="348.46" ytl="450.39" xbr="440.05" ybr="499.28" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="tile_238000_3672000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="134.27" ytl="1.35" xbr="314.71" ybr="165.95" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="123.94" ytl="170.08" xbr="414.57" ybr="274.77" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="328.48" ytl="38.54" xbr="500.00" ybr="245.15" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="16.50" ytl="355.34" xbr="415.95" ybr="497.91" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="157.69" ytl="287.16" xbr="497.22" ybr="448.32" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="tile_238500_3671500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="2.04" ytl="137.02" xbr="102.59" ybr="262.37" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="216.91" ytl="1.35" xbr="273.39" ybr="59.20" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="287.85" ytl="7.55" xbr="422.84" ybr="127.38" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="202.45" ytl="205.21" xbr="314.02" ybr="356.72" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="tile_238500_3672000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="0.66" ytl="103.28" xbr="142.53" ybr="193.50" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="382.89" ytl="331.24" xbr="457.27" ybr="393.91" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="451.76" ytl="215.54" xbr="500.00" ybr="350.52" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="52.31" ytl="200.39" xbr="149.42" ybr="261.68" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="0.66" ytl="171.46" xbr="55.76" ybr="278.21" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="tile_239000_3670000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="185.92" ytl="114.30" xbr="331.24" ybr="240.33" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="423.53" ytl="0.00" xbr="500.00" ybr="157.00" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="tile_239500_3670000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="135.65" ybr="98.46" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="101.21" ytl="51.63" xbr="179.04" ybr="167.33" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="271.32" ytl="51.63" xbr="317.47" ybr="119.81" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="172.84" ytl="156.31" xbr="249.28" ybr="266.50" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="tile_239500_3671500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="70.22" ytl="0.00" xbr="245.84" ybr="90.19" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="126.69" ytl="114.30" xbr="254.10" ybr="253.42" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="204.52" ytl="52.31" xbr="316.78" ybr="199.70" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="259.61" ytl="0.00" xbr="331.93" ybr="72.29" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="186.61" ytl="243.09" xbr="421.46" ybr="371.18" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="tile_239500_3672000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="156.31" ytl="125.32" xbr="260.99" ybr="217.60" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="53.00" ytl="162.51" xbr="159.06" ybr="317.47" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="0.00" ytl="199.01" xbr="192.12" ybr="498.59" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="66.09" ytl="10.99" xbr="147.36" ybr="96.39" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="tile_240000_3668000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="397.36" ytl="370.50" xbr="500.00" ybr="499.28" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="231.38" ytl="176.28" xbr="353.97" ybr="330.55" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="284.41" ytl="16.50" xbr="487.58" ybr="194.19" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="35.10" ytl="38.54" xbr="191.43" ybr="244.46" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="tile_240000_3669000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="374.63" ytl="351.21" xbr="500.00" ybr="457.96" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="13.75" ytl="152.18" xbr="125.32" ybr="213.47" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="218.98" ytl="27.52" xbr="396.67" ybr="210.72" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="57.82" ytl="24.77" xbr="141.16" ybr="94.32" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="tile_240000_3670000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="57.82" ytl="400.80" xbr="171.46" ybr="497.91" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="203.83" ytl="312.64" xbr="285.78" ybr="422.84" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="298.18" ytl="339.50" xbr="390.47" ybr="497.91" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="tile_240000_3670500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="2.73" ytl="150.11" xbr="123.25" ybr="302.31" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="tile_240500_3669000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="250.66" ytl="5.48" xbr="500.00" ybr="121.18" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="0.66" ytl="354.66" xbr="83.31" ybr="496.53" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="92.95" ytl="356.72" xbr="300.25" ybr="454.52" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="tile_240500_3670500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="419.39" ytl="18.57" xbr="500.00" ybr="160.44" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="tile_241000_3665000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="339.50" ytl="17.19" xbr="424.21" ybr="207.27" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="214.16" ytl="145.29" xbr="378.76" ybr="220.36" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="309.20" ytl="268.57" xbr="406.31" ybr="320.91" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="tile_241000_3665500_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="0.66" ytl="129.45" xbr="265.81" ybr="466.91" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="tile_241000_3666000_SLRM_R20.tif" width="500" height="500">
+    <box label="terrace" source="manual" occluded="0" xtl="112.23" ytl="148.73" xbr="174.90" ybr="203.14" z_order="0">
+    </box>
+    <box label="terrace" source="manual" occluded="0" xtl="196.25" ytl="251.35" xbr="252.04" ybr="298.87" z_order="0">
+    </box>
+  </image>
+</annotations>
